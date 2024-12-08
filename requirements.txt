@@ -1,0 +1,16 @@
+# Data Handling and Analysis
+pandas==1.5.3
+numpy==1.24.4
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Polar Plots and Advanced Visualizations
+plotly==5.17.0
+
+# For Statistical Analysis
+scipy==1.11.3
+
+# Jupyter Notebook (if using Jupyter for interactive development)
+jupyterlab==4.0.5
